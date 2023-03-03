@@ -1,3 +1,11 @@
+#EXTINF:-1 tvg-id="85f46da4a1cc398540f4a109ad6083d7" tvg-chno="207",Tiny Pop
+http://91.224.190.66:4272/bysid/53330
+#EXTINF:-1 tvg-id="6d2d873cda5e92447b76293113763b6e" tvg-chno="208",POP Max
+http://91.224.190.66:4272/bysid/53350
+#EXTINF:-1 tvg-id="77b49a5e33ae20c4d047e100eb02b891" tvg-chno="209",POP+1
+http://91.224.190.66:4272/bysid/53370
+#EXTINF:-1 tvg-id="819c567882283702f70fe31a1de5e73f" tvg-chno="210",Tiny Pop+1
+http://91.224.190.66:4272/bysid/53345
 #EXTINF:-1 tvg-id="435181cf58c3ee4d948b9d3ca00ca84d" tvg-chno="301",The Box
 http://91.224.190.66:4242/bysid/7208
 #EXTINF:-1 tvg-id="a6b6fdfc50a7a7e4c237b206ade204cf" tvg-chno="302",4Music
@@ -18,11 +26,3 @@ http://109.134.128.146:9981/stream/channel/c2cee31c09594dee0aa9faa990bf3166
 http://94.53.216.16:9981/stream/channel/0cf8a024f930d2a0a2f30a09671445e9
 #EXTINF:-1 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="408",Disney ES
 http://79.116.51.112:9981/stream/channelid/2108768998
-#EXTINF:-1 tvg-id="85f46da4a1cc398540f4a109ad6083d7",Tiny Pop
-http://91.224.190.66:4272/bysid/53330
-#EXTINF:-1 tvg-id="6d2d873cda5e92447b76293113763b6e",POP Max
-http://91.224.190.66:4272/bysid/53350
-#EXTINF:-1 tvg-id="77b49a5e33ae20c4d047e100eb02b891",POP+1
-http://91.224.190.66:4272/bysid/53370
-#EXTINF:-1 tvg-id="819c567882283702f70fe31a1de5e73f",Tiny Pop+1
-http://91.224.190.66:4272/bysid/53345
