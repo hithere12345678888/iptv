@@ -4,8 +4,6 @@ http://91.224.190.66:4242/bysid/7208
 http://91.224.190.66:4242/bysid/7209
 #EXTINF:-1 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="303",Kiss TV
 http://91.224.190.66:4242/bysid/7211
-#EXTINF:-1 tvg-id="062c6967b2f1d3d0655cd86bb3b26d4b" tvg-chno="401",Cartoon Netwrk
-.
 #EXTINF:-1 tvg-id="46473309d2e8150ebbfd90b724569ef1" tvg-chno="403",ABC ME
 http://58.96.43.228:9981/stream/channel/7345470d9d01f75ec1e53807230eb6ab
 #EXTINF:-1 tvg-id="29f0c658182054501bb256b2f764f82f" tvg-chno="404",Disney HU
