@@ -6,6 +6,8 @@ http://91.224.190.66:4263/bysid/27328
 http://91.224.190.66:4284/bysid/5832
 #EXTINF:-1 tvg-id="85f46da4a1cc398540f4a109ad6083d7" tvg-chno="101",BBC One Lon HD 
 http://91.224.190.66:4270/bysid/10363
+#EXTINF:-1 tvg-id="85f46da4a1cc398540f4a109ad6083d7" tvg-chno="206",POP
+http://91.224.190.66:4272/bysid/53340
 #EXTINF:-1 tvg-id="85f46da4a1cc398540f4a109ad6083d7" tvg-chno="207",Tiny Pop
 http://91.224.190.66:4272/bysid/53330
 #EXTINF:-1 tvg-id="6d2d873cda5e92447b76293113763b6e" tvg-chno="208",POP Max
@@ -38,3 +40,5 @@ http://83.33.29.47:9981/stream/channelid/83867467
 http://94.53.216.16:9981/stream/channel/187254960b48ca3d4cf286467afb672e
 #EXTINF:-1 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="411",Boomerang CEE
 http://84.76.155.94:9981/stream/channel/61895f939c6337ecd74567798dc2e096
+#EXTINF:-1 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="412",Clan
+http://83.33.29.47:9981/stream/channelid/964921888
