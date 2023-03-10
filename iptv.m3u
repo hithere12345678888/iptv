@@ -35,8 +35,6 @@ http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3673
 http://58.96.43.228:9981/stream/channel/7345470d9d01f75ec1e53807230eb6ab
 #EXTINF:0 tvg-id="29f0c658182054501bb256b2f764f82f" tvg-chno="404",Disney HU
 http://84.76.155.94:9981/stream/channel/655bf2f21bba80a7277364cdb498cd79
-#EXTINF:0 tvg-id="4cbce8650b1382aeefec5aeb688ba6af" tvg-chno="404",Disney HU (ALT)
-http://185.205.251.175:9981/stream/channel/087077d9f10537350074e18dd2c5028d
 #EXTINF:0 tvg-id="c6b02f5931398e15214cc6239552ae72" tvg-chno="405",Disney NL
 http://82.217.53.140:9981/stream/channel/eeef9555d953bad8cb68b3fc3777f32e
 #EXTINF:0 tvg-id="4ea78bba83e6608f1a026bb66161ecc7" tvg-chno="406",Disney BE
