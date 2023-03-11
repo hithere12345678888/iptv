@@ -44,7 +44,7 @@ http://94.53.216.16:9981/stream/channel/0cf8a024f930d2a0a2f30a09671445e9
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="408",Disney ES
 http://83.33.29.47:9981/stream/channelid/83867467
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="409",CN CEE
-http://94.53.216.16:9981/stream/channel/187254960b48ca3d4cf286467afb672e
+http://91.126.228.141:9981/stream/channel/3738edbe00420590a40a9e46739ca769
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="410",CN SEE
 http://78.128.92.138:9991/stream/channel/78b564312f622b200102c7ed832bc18e
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="411",Boomerang CEE
