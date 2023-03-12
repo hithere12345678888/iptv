@@ -77,3 +77,5 @@ http://91.126.228.141:9981/stream/channel/3893b243c33deeae77a151aaf4ed1f15
 http://91.224.190.66:4263/bysid/27424
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="902",BBC ONE EPG grab
 http://91.224.190.66:4259/bysid/4163
+#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="903",ITV1 EPG grab
+http://91.224.190.66:4260/bysid/8270
