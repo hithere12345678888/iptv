@@ -65,6 +65,8 @@ http://84.76.155.94:9981/stream/channel/9eaebd900f03cdd86bfeff75b057d5b5
 http://174.92.123.211:9981/stream/channel/0508d401167687394bbc9f966916a1f0
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="419",Teletoon+ PL
 http://174.92.123.211:9981/stream/channel/f7dc6d9d322e0082e2f75debca7e3aa8
+#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="420",Boing ES
+http://91.126.228.141:9981/stream/channel/3893b243c33deeae77a151aaf4ed1f15
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="901",POP EPG grab
 http://91.224.190.66:4263/bysid/27424
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="902",BBC ONE EPG grab
