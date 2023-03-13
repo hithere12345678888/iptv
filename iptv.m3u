@@ -31,6 +31,8 @@ http://91.224.190.66:4242/bysid/7208
 http://91.224.190.66:4242/bysid/7209
 #EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="303",Kiss TV
 http://91.224.190.66:4242/bysid/7211
+#EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="304",Magic TV
+http://91.224.190.66:4242/bysid/7207
 #EXTINF:0 tvg-id="46473309d2e8150ebbfd90b724569ef1" tvg-chno="401",Cartoon Netwrk
 http://174.92.123.211:9981/stream/channel/d088af8932c6064d09697ceb7592ddfe
 #EXTINF:0 tvg-id="46473309d2e8150ebbfd90b724569ef1" tvg-chno="402",Nickelodeon
