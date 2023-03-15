@@ -61,8 +61,8 @@ http://91.126.228.141:9981/stream/channel/e2e58b3b2e225e1615e09117cd95095b
 http://91.126.228.141:9981/stream/channel/eb152841be0416b54451b5ef5b8d3473
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="413",Disney BG
 http://78.128.92.138:9991/stream/channel/efd6393aa12b41b3a2e789c39dafb781
-#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="414",Disney PL
-http://174.91.77.168:9981/stream/channel/bfbb37b329099f017afecb22d1e9e988
+#EXTINF:0 logo="file:///picons/disneychannel.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="414",Disney PL
+http://78.88.5.154:9981/stream/channel/2a7d1ab92062839030b8029e91c97616?profile=pass
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="415",NICK USA
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3673
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="416",NICK CEE
