@@ -33,10 +33,10 @@ http://91.224.190.66:4242/bysid/7209
 http://91.224.190.66:4242/bysid/7211
 #EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="304",Magic TV
 http://91.224.190.66:4242/bysid/7207
-#EXTINF:0 tvg-id="46473309d2e8150ebbfd90b724569ef1" tvg-chno="401",Cartoon Netwrk
-http://174.92.123.211:9981/stream/channel/d088af8932c6064d09697ceb7592ddfe
+#EXTINF:0 logo="file:///picons/cartoonnetwork.png" tvg-id="46473309d2e8150ebbfd90b724569ef1" tvg-chno="401",Cartoon Netwrk
+http://174.91.77.168:9981/stream/channel/e4d921f03ac97b8d63c0b1392df0f0f0?profile=pass
 #EXTINF:0 tvg-id="46473309d2e8150ebbfd90b724569ef1" tvg-chno="402",Nickelodeon
-http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3673
+http://174.91.77.168:9981/stream/channel/0e1d5cd2b982a7d982c9543abb2253d5?profile=pass
 #EXTINF:0 tvg-id="46473309d2e8150ebbfd90b724569ef1" tvg-chno="403",ABC ME
 http://58.96.43.228:9981/stream/channel/7345470d9d01f75ec1e53807230eb6ab
 #EXTINF:0 tvg-id="29f0c658182054501bb256b2f764f82f" tvg-chno="404",Disney HU
