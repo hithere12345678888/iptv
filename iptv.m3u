@@ -41,6 +41,8 @@ http://174.91.77.168:9981/stream/channel/0e1d5cd2b982a7d982c9543abb2253d5?profil
 http://58.96.43.228:9981/stream/channel/7345470d9d01f75ec1e53807230eb6ab
 #EXTINF:0 tvg-id="29f0c658182054501bb256b2f764f82f" tvg-chno="404",Disney HU
 http://84.76.155.94:9981/stream/channel/655bf2f21bba80a7277364cdb498cd79
+#EXTINF:0 logo="file:///picons/disneychannel.png" tvg-id="29f0c658182054501bb256b2f764f82f" tvg-chno="404",Disney HU (ALT)
+http://89.134.92.145:9981/stream/channel/e63d5951e8dff0aad6a2ecc6174530d5
 #EXTINF:0 tvg-id="c6b02f5931398e15214cc6239552ae72" tvg-chno="405",Disney NL
 http://84.27.255.222:9981/stream/channel/30af5b690492f33c8ba70cc9c505d708
 #EXTINF:0 tvg-id="4ea78bba83e6608f1a026bb66161ecc7" tvg-chno="406",Disney BE
