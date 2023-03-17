@@ -69,6 +69,8 @@ http://78.88.5.154:9981/stream/channel/2a7d1ab92062839030b8029e91c97616?profile=
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3673
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="416",NICK CEE
 http://94.53.216.13:9981/stream/channel/e9b7cbe8ef04bd93564b3a18486df8d9
+#EXTINF:0 logo="file:///picons/nickelodeon.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="416",NICK CEE (ALT)
+http://89.134.92.145:9981/stream/channel/c6fbce76783c5a2512ec6d4ea9e82271
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="418",JimJam
 http://84.76.155.94:9981/stream/channel/9eaebd900f03cdd86bfeff75b057d5b5
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="417",NICK PL
