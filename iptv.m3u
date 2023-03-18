@@ -33,6 +33,8 @@ http://91.224.190.66:4242/bysid/7209
 http://91.224.190.66:4242/bysid/7211
 #EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="304",Magic TV
 http://91.224.190.66:4242/bysid/7207
+#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="307",NickMusic
+http://89.134.92.145:9981/stream/channel/dc90b1a193535c373d5dee17aec158e1
 #EXTINF:0 logo="file:///picons/cartoonnetwork.png" tvg-id="46473309d2e8150ebbfd90b724569ef1" tvg-chno="401",Cartoon Netwrk
 http://174.91.77.168:9981/stream/channel/e4d921f03ac97b8d63c0b1392df0f0f0?profile=pass
 #EXTINF:0 tvg-id="46473309d2e8150ebbfd90b724569ef1" tvg-chno="402",NickelodeonHD
@@ -87,8 +89,6 @@ http://79.234.81.177:9981/stream/channel/7c17c396d854cabd63d6722ffb2ec650
 http://79.234.81.177:9981/stream/channel/db09330262d8ca0fcb1591a10d5424f0
 #EXTINF:0 logo="file:///picons/disneychannel.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="424",Disney DE
 http://79.234.81.177:9981/stream/channel/85d61074628d82894467cb5915478ef9
-#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="425",NickMusic
-http://89.134.92.145:9981/stream/channel/dc90b1a193535c373d5dee17aec158e1
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="206",POP (ALT)
 http://91.224.190.66:4263/bysid/27424
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="902",BBC ONE EPG grab
