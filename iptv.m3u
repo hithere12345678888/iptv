@@ -59,7 +59,7 @@ http://91.126.228.141:9981/stream/channel/c8f61a96cc815d0fb30742f3ce0e367c
 http://94.53.216.13:9981/stream/channel/fe150c08178bb6cf6e6daf6744f7d195
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="410",CN SEE
 http://78.128.92.138:9991/stream/channel/78b564312f622b200102c7ed832bc18e
-#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="411",Boomerang CEE
+#EXTINF:0 logo="file:///picons/cartoonito.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="411",Cartoonito CEE
 http://84.76.155.94:9981/stream/channel/61895f939c6337ecd74567798dc2e096
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="412",Clan
 http://91.126.228.141:9981/stream/channel/e2e58b3b2e225e1615e09117cd95095b
