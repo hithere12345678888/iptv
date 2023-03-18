@@ -91,6 +91,8 @@ http://79.234.81.177:9981/stream/channel/7c17c396d854cabd63d6722ffb2ec650
 http://79.234.81.177:9981/stream/channel/db09330262d8ca0fcb1591a10d5424f0
 #EXTINF:0 logo="file:///picons/disneychannel.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="424",Disney DE
 http://79.234.81.177:9981/stream/channel/85d61074628d82894467cb5915478ef9
+#EXTINF:0 logo="file:///picons/disneychannel.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="425",Disney SE
+http://vip.tvgiganten.com:2095/s9Fs4Pwx/assJG8UM/15383
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="206",POP (ALT)
 http://91.224.190.66:4263/bysid/27424
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="902",BBC ONE EPG grab
