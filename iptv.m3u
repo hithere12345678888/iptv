@@ -95,7 +95,9 @@ http://79.234.81.177:9981/stream/channel/85d61074628d82894467cb5915478ef9
 http://vip.tvgiganten.com:2095/s9Fs4Pwx/assJG8UM/15383
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="206",POP (ALT)
 http://91.224.190.66:4263/bysid/27424
-#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="902",BBC ONE EPG grab
+#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="902",BBC ONE South
 http://91.224.190.66:4259/bysid/4163
-#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="903",ITV1 EPG grab
+#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="903",ITV1
 http://91.224.190.66:4260/bysid/8270
+#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="56",5SELECT (ALT)
+http://37.252.48.186:9981/stream/channel/4c576c2a6680b6eff2c528ceefcca747
