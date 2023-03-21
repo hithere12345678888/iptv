@@ -65,8 +65,8 @@ http://84.76.155.94:9981/stream/channel/61895f939c6337ecd74567798dc2e096
 http://79.116.27.125:9981/stream/channelid/163327413?profile=pass
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="412",Clan HD
 http://79.116.27.125:9981/stream/channelid/979655958?profile=pass
-#EXTINF:0 logo="file:///picons/disneychannel.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="413",Disney BG
-http://79.114.110.156:9981/stream/channel/563d24599827265d7a9a68fd6a9c1ae5
+#EXTINF:0 logo="file:///picons/disneychannel.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="413",Disney RO (ALT)
+http://86.123.190.127:9981/stream/channel/086384f7033fb8e2ddb1c6055115dcd6
 #EXTINF:0 logo="file:///picons/disneychannel.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="414",Disney PL
 http://78.88.5.154:9981/stream/channel/2a7d1ab92062839030b8029e91c97616?profile=pass
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="415",NICK USA
