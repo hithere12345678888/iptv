@@ -11,8 +11,6 @@ http://91.224.190.66:4262/bysid/22208
 http://91.224.190.66:4274/bysid/55208
 #EXTINF:0 tvg-chno="69",CBS Reality+1
 http://91.224.190.66:4274/bysid/55217
-#EXTINF:0 tvg-chno="75",That's 70s
-http://91.224.190.66:4262/bysid/23904
 #EXTINF:0 tvg-id="85f46da4a1cc398540f4a109ad6083d7" tvg-chno="101",BBC One Lon HD
 http://91.224.190.66:4270/bysid/10363
 #EXTINF:0 tvg-id="85f46da4a1cc398540f4a109ad6083d7" tvg-chno="103",ITV1 HD
