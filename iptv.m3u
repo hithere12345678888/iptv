@@ -53,8 +53,8 @@ http://84.27.255.222:9981/stream/channel/31e7bcd9f3abccf94cb3825bdd2c6cda
 http://vip.tvgiganten.com:2095/s9Fs4Pwx/assJG8UM/12103
 #EXTINF:0 tvg-id="4ea78bba83e6608f1a026bb66161ecc7" tvg-chno="406",Disney BE
 http://109.134.128.146:9981/stream/channel/c2cee31c09594dee0aa9faa990bf3166
-#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="407",Disney RO
-http://86.123.190.127:9981/stream/channel/086384f7033fb8e2ddb1c6055115dcd6
+#EXTINF:0 logo="file:///picons/disneychannel.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="407",Disney RO
+http://94.53.216.13:9981/stream/channel/bf58a529260611896dffa73966390837
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="408",Disney ES
 http://79.116.27.125:9981/stream/channelid/2108768998?profile=pass
 #EXTINF:0 logo="file:///picons/cartoonnetwork.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="409",CN CEE
