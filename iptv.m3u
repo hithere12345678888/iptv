@@ -95,6 +95,8 @@ http://92.117.87.196:9981/stream/service/f209c8e48119e9ce37fab44f3cb1fb9b
 http://88.152.176.43:9981/stream/channel/3b87d6d65511bc8347874ff0f5bd14d9
 #EXTINF:0 logo="file:///picons/disneychannel.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="425",Disney SE
 http://vip.tvgiganten.com:2095/s9Fs4Pwx/assJG8UM/15383
+#EXTINF:0 logo="file:///picons/disneychannel.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="426",CN CA
+http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/145117
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="206",POP (ALT)
 http://91.224.190.66:4263/bysid/27424
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="901",BBC ONE South
