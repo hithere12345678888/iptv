@@ -111,6 +111,8 @@ http://vip.tvgiganten.com:2095/s9Fs4Pwx/assJG8UM/15383
 http://starshare.live:8080/live/282858528345/456759264236/1536.ts
 #EXTINF:0 logo="file:///picons/boomerang.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="427",Boomerang CA
 http://starshare.live:8080/live/282858528345/456759264236/1481.ts
+#EXTINF:0 logo="file:///picons/disneychannel.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="428",Disney EMEA
+http://humiptv.live:8080/live/192421/192421/19832.ts
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="206",POP (ALT)
 http://91.224.190.66:4263/bysid/27424
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="901",BBC ONE South
