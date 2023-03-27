@@ -25,6 +25,14 @@ http://91.224.190.66:4272/bysid/53350
 http://91.224.190.66:4272/bysid/53370
 #EXTINF:0 tvg-id="819c567882283702f70fe31a1de5e73f" tvg-chno="210",Tiny Pop+1
 http://91.224.190.66:4272/bysid/53345
+#EXTINF:0 tvg-id="819c567882283702f70fe31a1de5e73f" tvg-chno="237",CNBC
+http://91.224.190.66:4277/bysid/50882
+#EXTINF:0 tvg-id="819c567882283702f70fe31a1de5e73f" tvg-chno="238",CNN
+http://91.224.190.66:4266/bysid/50316
+#EXTINF:0 tvg-id="819c567882283702f70fe31a1de5e73f" tvg-chno="239",CNBC HD
+http://91.224.190.66:4281/bysid/5088
+#EXTINF:0 tvg-id="819c567882283702f70fe31a1de5e73f" tvg-chno="240",CNN HD
+http://91.224.190.66:4245/bysid/50290
 #EXTINF:0 tvg-id="435181cf58c3ee4d948b9d3ca00ca84d" tvg-chno="301",The Box
 http://91.224.190.66:4242/bysid/7208
 #EXTINF:0 tvg-id="a6b6fdfc50a7a7e4c237b206ade204cf" tvg-chno="302",4Music
@@ -33,6 +41,10 @@ http://91.224.190.66:4242/bysid/7209
 http://91.224.190.66:4242/bysid/7211
 #EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="304",Magic TV
 http://91.224.190.66:4242/bysid/7207
+#EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="305",NOW 70s
+http://91.224.190.66:4246/bysid/52107
+#EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="306",NOW 80s
+http://91.224.190.66:4266/bysid/50306
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="307",NickMusic
 http://89.134.92.145:9981/stream/channel/dc90b1a193535c373d5dee17aec158e1
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="308",MTV Music
