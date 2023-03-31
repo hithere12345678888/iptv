@@ -51,7 +51,7 @@ http://91.224.190.66:4266/bysid/50306
 http://89.134.92.145:9981/stream/channel/dc90b1a193535c373d5dee17aec158e1
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="308",MTV Music
 http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/11654
-#EXTINF:0 logo="file:///picons/cartoonnetwork.png" tvg-id="46473309d2e8150ebbfd90b724569ef1" tvg-chno="401",Cartoon Netwrk
+#EXTINF:0 logo="https://tvhpicons.neocities.org/picons/cartoonnetwrk.png" tvg-id="46473309d2e8150ebbfd90b724569ef1" tvg-chno="401",Cartoon Netwrk
 http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/445208
 #EXTINF:0 tvg-id="46473309d2e8150ebbfd90b724569ef1" tvg-chno="402",Nickelodeon
 http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/4856
@@ -71,9 +71,9 @@ http://109.134.128.146:9981/stream/channel/c2cee31c09594dee0aa9faa990bf3166
 http://94.53.216.13:9981/stream/channel/bf58a529260611896dffa73966390837
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="408",Disney ES
 http://79.116.27.125:9981/stream/channelid/2108768998?profile=pass
-#EXTINF:0 logo="file:///picons/cartoonnetwork.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="409",CN CEE
-http://86.123.190.127:9981/stream/channel/864ea804e9ad2e990c8010a1d028a75d
-#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="410",CN SEE
+#EXTINF:0 logo="https://tvhpicons.neocities.org/picons/cartoonnetwrk.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="409",CN CEE
+http://188.25.63.226:9981/stream/channel/b51c405df30fd74abec414e4e651164c
+#EXTINF:0 logo="https://tvhpicons.neocities.org/picons/cartoonnetwrk.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="410",CN SEE
 http://78.128.92.138:9991/stream/channel/78b564312f622b200102c7ed832bc18e
 #EXTINF:0 logo="file:///picons/cartoonito.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="411",Cartoonito CEE
 http://84.76.155.94:9981/stream/channel/61895f939c6337ecd74567798dc2e096
@@ -82,14 +82,14 @@ http://79.116.27.125:9981/stream/channelid/163327413?profile=pass
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="412",Clan HD
 http://79.116.27.125:9981/stream/channelid/979655958?profile=pass
 #EXTINF:0 logo="file:///picons/disneychannel.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="413",Disney RO (ALT)
-http://78.128.92.138:9991/stream/channel/efd6393aa12b41b3a2e789c39dafb781
-#EXTINF:0 logo="file:///picons/disneychannel.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="414",Disney PL
+http://188.25.63.226:9981/stream/channel/a5a00d9725767e9e69b8a90840ea0f59
+#EXTINF:0 logo="https://tvhpicons.neocities.org/picons/disneychannel.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="414",Disney PL
 http://vip.tvgiganten.com:2095/s9Fs4Pwx/assJG8UM/25352
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="415",NICK USA
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3673
-#EXTINF:0 logo="file:///picons/nickelodeon.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="416",NICK CEE
+#EXTINF:0 logo="https://tvhpicons.neocities.org/picons/nickelodeon.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="416",NICK CEE
 http://94.53.216.13:9981/stream/channel/e9b7cbe8ef04bd93564b3a18486df8d9
-#EXTINF:0 logo="file:///picons/nickelodeon.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="416",NICK CEE (ALT)
+#EXTINF:0 logo="https://tvhpicons.neocities.org/picons/nickelodeon.png" tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="416",NICK CEE (ALT)
 http://89.134.92.145:9981/stream/channel/c6fbce76783c5a2512ec6d4ea9e82271
 #EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="418",JimJam
 http://84.76.155.94:9981/stream/channel/9eaebd900f03cdd86bfeff75b057d5b5
